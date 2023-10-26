@@ -8,7 +8,13 @@ This program requires Python 3.6 or higher.
 
 The following packages are required: `PyQt5`, `qfluentwidgets`, and `qframelesswindow`.
 
-CD to the `couzin-sim` directory and run `python main.py` to start the program.
+Clone into local repository, then run the main program.
+
+```bash
+git clone https://github.com/QZGao/couzin-sim.git
+cd couzin-sim
+python main.py
+```
 
 ## Usage
 
